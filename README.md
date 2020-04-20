@@ -4,13 +4,8 @@ The purpose of our FYP is to solve the real life problem using Artificial Intell
 •	Automate Face Recognition Attendance System using DL
 •	Automate Emotion Detection using DL
 
-
 ### Face recognition 
-[face_attandance](https://user-images.githubusercontent.com/30461028/79461965-bb7eb580-7fab-11ea-8430-5c14b4e7a915.PNG)
-
-### Automate Emotion Detection 
-
-
+![face_attandance](https://user-images.githubusercontent.com/30461028/79750074-26d6c900-82c5-11ea-99c6-8112294705b2.PNG)
 
 ### Plagiarism Checker Dashhboard 
 ![plagiarism](https://user-images.githubusercontent.com/30461028/79749719-8c768580-82c4-11ea-8707-13183a28126e.PNG)
